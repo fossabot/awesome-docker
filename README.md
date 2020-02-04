@@ -1,5 +1,5 @@
-
 # Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker) [![Say Thanks](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/veggiemonk)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-docker?ref=badge_shield)
 
 > A curated list of Docker resources and projects
 Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome][sindresorhus] and improved by these **[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
@@ -706,3 +706,7 @@ Services to securely store your Docker images.
 [vimagick]: https://github.com/vimagick
 [weave]: https://github.com/weaveworks/weave
 [wsargent]: https://github.com/wsargent
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapurvadave%2Fawesome-docker?ref=badge_large)
